@@ -16,7 +16,7 @@ Instructions for students:
 EQ3
 1. 
 2.
-3.
+3. testing
 7.
 5.
 6.
